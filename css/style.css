@@ -166,12 +166,13 @@
 		}
 		.form-control{
 			display: block;
-			padding: 12px;
+			padding: 14px 12px;
 			width: 100%;
 			border: 0;
 			background: #f5f6f7;
 			border-radius: 1px;
 			font-size: 14px;
+			outline: none;
 		}
 		.btn-submit{
 			background-color: #1877f2;
